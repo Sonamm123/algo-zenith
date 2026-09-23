@@ -15,7 +15,7 @@
 | Day | Problems | Easy | Medium | Hard | Topics |
 |---:|---:|---:|---:|---:|---|
 | 01 | 3 | 3 | 0 | 0 | Arrays, Prefix Sum, HashMap, Greedy |
-| 02 | — | — | — | — | — |
+| 02 | 3 | 2 | 1 | 0 | Arrays, Index Mapping, Prefix/Suffix |
 | 03 | — | — | — | — | — |
 | 04 | — | — | — | — | — |
 | 05 | — | — | — | — | — |
@@ -26,10 +26,10 @@
 
 | Metric | Count |
 |---|---:|
-| Days Completed | 1 / 90 |
-| Problems Solved | 3 |
-| Easy | 3 |
-| Medium | 0 |
+| Days Completed | 2 / 90 |
+| Problems Solved | 6 |
+| Easy | 5 |
+| Medium | 1 |
 | Hard | 0 |
 
 ---
@@ -42,3 +42,13 @@
 - Complement Lookup using HashMap
 - Minimum-so-far / Maximum Difference
 - One-pass array traversal
+
+### Day 02
+- Array concatenation
+- Index mapping
+- Array interleaving
+- Prefix product
+- Suffix product
+- Two-pass array traversal
+
+
