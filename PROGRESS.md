@@ -16,7 +16,7 @@
 |---:|---:|---:|---:|---:|---|
 | 01 | 3 | 3 | 0 | 0 | Arrays, Prefix Sum, HashMap, Greedy |
 | 02 | 3 | 2 | 1 | 0 | Arrays, Index Mapping, Prefix/Suffix |
-| 03 | — | — | — | — | — |
+| 03 | 3 | 1 | 2 | 0 | Arrays, Two Pointers, In-place, Greedy |
 | 04 | — | — | — | — | — |
 | 05 | — | — | — | — | — |
 
@@ -26,10 +26,10 @@
 
 | Metric | Count |
 |---|---:|
-| Days Completed | 2 / 90 |
-| Problems Solved | 6 |
-| Easy | 5 |
-| Medium | 1 |
+| Days Completed | 3 / 90 |
+| Problems Solved | 9 |
+| Easy | 6 |
+| Medium | 3 |
 | Hard | 0 |
 
 ---
@@ -51,4 +51,11 @@
 - Suffix product
 - Two-pass array traversal
 
+## Day 03
+- In-place array manipulation
+- Two pointers
+- Array reversal
+- Swap-based reversal
+- Greedy pointer movement
+- Container/area optimization
 
