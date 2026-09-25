@@ -17,7 +17,7 @@
 | 01 | 3 | 3 | 0 | 0 | Arrays, Prefix Sum, HashMap, Greedy |
 | 02 | 3 | 2 | 1 | 0 | Arrays, Index Mapping, Prefix/Suffix |
 | 03 | 3 | 1 | 2 | 0 | Arrays, Two Pointers, In-place, Greedy |
-| 04 | — | — | — | — | — |
+| 04 | 3 | 2 | 1 | 0 | Arrays, HashSet, Kadane's Algorithm, Boyer-Moore |
 | 05 | — | — | — | — | — |
 
 ---
@@ -26,10 +26,10 @@
 
 | Metric | Count |
 |---|---:|
-| Days Completed | 3 / 90 |
-| Problems Solved | 9 |
-| Easy | 6 |
-| Medium | 3 |
+| Days Completed | 4 / 90 |
+| Problems Solved | 12 |
+| Easy | 8 |
+| Medium | 4 |
 | Hard | 0 |
 
 ---
@@ -58,4 +58,13 @@
 - Swap-based reversal
 - Greedy pointer movement
 - Container/area optimization
+
+## Day 04
+-HashSet / membership checking
+- Duplicate detection
+-Kadane's Algorithm
+-Running sum reset
+-Maximum subarray
+-Boyer-Moore Voting
+-Frequency / Majority detection
 
